@@ -1,0 +1,20 @@
+ProductName,Price,StockQuantity,ArticleNumber,Category,ContactEmail,SupplierName,SupplierPhone,SupplierAddress
+Diamond Ring,1000,1,A0001,Rings,jоhn.smith@gmail.com,John Smith,+1-202-555-0181,123 Maple Street
+Golden Ring,2000,2,A0002,Rings,jоhn.smith@gmail.com,John Smith,+1-202-555-0181,123 Maple Street
+Silver Ring,3000,3,A0003,Rings,jоhn.smith@gmail.com,John Smith,+1-202-555-0181,123 Maple Street
+Platinum Ring,4000,4,A0004,Rings,jоhn.smith@gmail.com,John Smith,+1-202-555-0181,123 Maple Street
+Сopper Ring,5000,5,A0005,Rings,jоhn.smith@gmail.com,John Smith,+1-202-555-0181,123 Maple Street
+Rubin Necklace,2000,2,A0006,Necklaces,emily.johnson@gmail.com,Emily Johnson,+1-646-555-0199,456 Oak Avenue
+Diamond Necklace,3000,2,A0007,Necklaces,emily.johnson@gmail.com,Emily Johnson,+1-646-555-0199,456 Oak Avenue
+Golden Necklace,4000,2,A0008,Necklaces,emily.johnson@gmail.com,Emily Johnson,+1-646-555-0199,456 Oak Avenue
+Silver Necklace,5000,2,A0009,Necklaces,emily.johnson@gmail.com,Emily Johnson,+1-646-555-0199,456 Oak Avenue
+Platinum Necklace,6000,2,A0010,Necklaces,emily.johnson@gmail.com,Emily Johnson,+1-646-555-0199,456 Oak Avenue
+Сopper Necklace,7000,2,A0011,Necklaces,emily.johnson@gmail.com,Emily Johnson,+1-646-555-0199,456 Oak Avenue
+Golden Brooch,2000,3,A012,Brooch,michael.brown@gmail.com,Michael Brown,+1-213-555-0198,789 Pine Lane
+Silver Brooch,2000,3,A0013,Brooch,michael.brown@gmail.com,Michael Brown,+1-213-555-0198,789 Pine Lane
+Platinum Brooch,4000,3,A0014,Brooch,michael.brown@gmail.com,Michael Brown,+1-213-555-0198,789 Pine Lane
+Сopper Brooch,5000,3,A0015,Brooch,michael.brown@gmail.com,Michael Brown,+1-213-555-0198,789 Pine Lane
+Golden Wristband,1000,4,A0016,Wristband,sarah.davis@gmail.com,Sarah Davis,+1-312-555-0156,321 Birch Boulevard
+Silver Wristband,2000,5,A00117,Wristband,sarah.davis@gmail.com,Sarah Davis,+1-312-555-0156,321 Birch Boulevard
+Platinum Wristband,3000,10,A0018,Wristband,sarah.davis@gmail.com,Sarah Davis,+1-312-555-0156,321 Birch Boulevard
+Сopper Wristband,5000,11,A0019,Wristband,sarah.davis@gmail.com,Sarah Davis,+1-312-555-0156,321 Birch Boulevard

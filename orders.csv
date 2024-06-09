@@ -1,0 +1,21 @@
+OrderDate,Email,TotalAmount,Status,OrderNumber,ArticleNumber,Quantity
+2023-01-02 11:00:00,carol.white@example.com,11000,confirmed,G001,A0013,2
+2023-01-02 11:00:00,carol.white@example.com,11000,confirmed,G001,A0011,1
+2023-02-12 11:00:00,wendy.martinez@example.com,1000,delivered,G002,A0001,1
+2023-03-09 11:00:00,sara.hernandez@example.com,10000,paid,G003,A0005,2
+2023-01-21 06:00:00,paul.hall@example.com,2000,confirmed,G004,A0013,1
+2023-01-21 06:00:00,quinn.young@example.com,8000,confirmed,G005,A0014,2
+2023-01-21 06:00:00,tina.ross@example.com,10000,confirmed,G006,A0019,2
+2023-01-21 06:00:00,sam.foster@example.com,5000,confirmed,G007,A0019,1
+2023-01-21 06:00:00,rita.bennett@example.com,5000,confirmed,G008,A0019,1
+2023-01-21 06:00:00,quincy.ruiz@example.com,5000,confirmed,G009,A0019,1
+2023-01-21 06:00:00,oscar.rogers@example.com,5000,delivered,G010,A0019,1
+2023-01-21 06:00:00,nina.price@example.com,10000,delivered,G011,A0018,2
+2023-01-21 06:00:00,mike.perry@example.com,3000,delivered,G012,A0018,1
+2023-01-21 06:00:00,lily.lee@example.com,3000,delivered,G013,A0018,1
+2023-01-21 06:00:00,fred.james@example.com,6000,delivered,G014,A0018,2
+2023-01-21 06:00:00,yara.campbell@example.com,3000,delivered,G015,A0018,1
+2023-01-21 06:00:00,vic.robinson@example.com,3000,paid,G0016,A0018,1
+2023-01-21 06:00:00,tom.morris@example.com,3000,paid,G017,A0018,1
+2023-01-21 06:00:00,ray.allen@example.com,2000,paid,G018,A0002,1
+2023-01-21 06:00:00,bob.brown@example.com,2000,paid,G019,A0002,1
